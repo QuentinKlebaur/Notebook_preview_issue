@@ -1,6 +1,6 @@
 # Github Notebook preview does not open image redirection
 
-On this 'Markdown preview', all images and texts will redirect well the user on 'https://google.com', but on the Notebookpreview of the file [test.ipynb](https://github.com/QuentinKlebaur/Notebook_preview_issue/test.ipynb), it will not work
+On this 'Markdown preview', all images and texts will redirect well the user on 'https://google.com', but on the Notebookpreview of the file [test.ipynb](https://github.com/QuentinKlebaur/Notebook_preview_issue/blob/master/test.ipynb), it will not work
 
 ## html href img
 
