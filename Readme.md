@@ -14,6 +14,18 @@ On this 'Markdown preview', all images and texts will redirect well the user on 
     Hello World !
 </a>
 
+## html href target _blank img
+
+<a href="https://google.com" target="_blank">
+    <img src="https://github.com/QuentinKlebaur.png"/>
+</a>
+
+## html href target _blank text
+
+<a href="https://google.com" target="_blank">
+    Hello World !
+</a>
+
 ## Markdown redirection img
 
 [![redirect](https://github.com/QuentinKlebaur.png)](https://google.com)
