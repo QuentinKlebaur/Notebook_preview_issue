@@ -1,0 +1,19 @@
+Hello Github !
+
+When I was working on notebooks on github, I found a strange interaction on the github file previewer.
+
+On the github file previewer of notebooks (file.ipynb), in a markdown cell, when I click on an image that should redirect the user, it doesn't work, it just shows "this content is blocked. contact the site owner...", except if I "open it on a new tab". In this case, my page will be well opened in the new tab.
+So I tried to set a 'target="_blank"' on my redirection but that doesn't do anything.
+
+That's not all !
+When I try to click on a side of the image, I will be well redirected on the good page.
+Strangely, when I use a text as redirection, it works well.
+
+The only thing I found to fix it, is to set the 'target="_parent"'
+
+Last thing that I have to say is that, when you have the same type of redirection on a markdown file, it works well. For example, in a Readme.md, it will be no problem.
+
+I did a test repo to compare the differents situations: https://github.com/QuentinKlebaur/Notebook_preview_issue
+
+Thanks for reading and took attention to this message !
+Have a nice day !
